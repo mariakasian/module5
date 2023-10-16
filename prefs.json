@@ -1,0 +1,9 @@
+{
+  "dbUrl": "jdbc:h2:./h2database",
+  "initDbSql": "sql/h2_init_db.sql",
+  "findMaxSalaryWorker": "sql/h2_find_max_salary_worker.sql",
+  "findMaxProjectsClient": "sql/h2_find_max_projects_client.sql",
+  "findLongestProject": "sql/h2_find_longest_project.sql",
+  "findYoungestEldestWorkers": "sql/h2_find_youngest_eldest_workers.sql",
+  "printProjectPrices": "sql/h2_print_project_prices.sql"
+}

@@ -1,0 +1,16 @@
+Sergiy Levchenko, 2001-10-17, Trainee, 1000
+Sophia Shypina, 1982-07-10, Middle, 3000
+Vadym Shevikov, 2002-01-19, Junior, 1100
+Vladyslav Didenko, 1985-10-02, Senior, 5000
+Eva Sohatska, 1998-04-24, Junior, 1000
+Viktoria Paitsun, 1998-05-02, Trainee, 1000
+Vitaliy Osadchuk, 1996-09-05, Junior, 1250
+Dmytro Abramiuk, 1980-06-24, Junior, 1050
+Igor Rudenko, 1983-08-12, Middle, 3400
+Olha Senchik, 1995-04-22, Junior, 1250
+Sergiy Titarenko, 2000-12-20, Trainee, 1000
+Dmitry Marchenko, 2000-11-06, Junior, 1500
+Iryna Tsarenko, 2005-01-15, Trainee, 1000
+Marichka Velhan, 1984-06-21, Middle, 3500
+Olexander Vasyliuk, 1980-06-24, Senior, 4800
+Pavlo Lavryk, 2001-03-26, Junior, 1200
